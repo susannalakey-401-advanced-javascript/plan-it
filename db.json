@@ -1,0 +1,34 @@
+{
+  "toDoList": [
+    {
+      "id": 1,
+      "task": "Buy Groceries",
+      "difficulty": "2",
+      "status": false
+    },
+    {
+      "id": 1,
+      "task": "Exercise",
+      "difficulty": "3",
+      "status": true
+    },
+    {
+      "id": 1,
+      "task": "Walk the Dog",
+      "difficulty": "2",
+      "status": true
+    },
+    {
+      "id": 1,
+      "task": "Do Homework",
+      "difficulty": "4",
+      "status": false
+    },
+    {
+      "id": 1,
+      "task": "Laundry",
+      "difficulty": "2",
+      "status": false
+    }
+  ]
+}
